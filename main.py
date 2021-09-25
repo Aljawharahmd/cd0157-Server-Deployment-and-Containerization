@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# pylint: disable=import-error
 """
 A simple app to create a JWT token.
 """
