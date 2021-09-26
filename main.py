@@ -32,8 +32,6 @@ def _logger():
 
     log.addHandler(stream_handler)
     return log
- 
-
 
 LOG = _logger()
 LOG.debug("Starting with log level: %s" % LOG_LEVEL )
