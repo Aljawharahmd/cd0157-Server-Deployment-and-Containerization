@@ -40,4 +40,9 @@ For more detail about each of these steps, see the project lesson.
 
 ## ELB endpoint URL:
 
-a295e2b87011a4456a7cdcd698ec664d-965728314.us-west-2.elb.amazonaws.com
+aaed443e477534299bed4a76c4d0680b-1441134866.us-east-2.elb.amazonaws.com
+
+## env_file:
+
+JWT_SECRET='myjwtsecret'
+LOG_LEVEL=DEBUG
